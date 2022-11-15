@@ -1,0 +1,8 @@
+POST https://trikldoodhwala.herokuapp.com/app/signup
+Content-Type: application/json
+
+{
+    "name":"Shalu",
+    "telegram":"Shaluinweb3",
+    "email":"panwarshalu06@gmail.com"
+}
